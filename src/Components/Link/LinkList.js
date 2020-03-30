@@ -1,13 +1,10 @@
-import React, { Component } from 'react'
-
-class LinkList extends Component {
-    render() {
-        return (
-            <div>
-                LinkList
-            </div>
-        )
-    }
+import React from 'react'
+function LinkList() {
+    return (
+        <div>
+            LinkList
+        </div>
+    )
 }
 
 export default LinkList
